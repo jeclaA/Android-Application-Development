@@ -26,11 +26,9 @@ A note-taking application that allows users to create and manage personal notes.
 
 **Screenshots:**
 
-| Default Note | Add Note |
-|:---:|:---:|
-| ![Default Note](screenshots/week-07/default-note.png) | ![Add Note](screenshots/week-07/add-note.png) |
-
-![Note List](screenshots/week-07/notes-list.png)
+| Default Note | Add Note | Note List | 
+|:---:|:---:|:---:|
+| ![Default Note](screenshots/week-07/default-note.png) | ![Add Note](screenshots/week-07/add-note.png) | ![Note List](screenshots/week-07/notes-list.png)
 
 ### Week 08 – Product Application
 
@@ -43,11 +41,9 @@ A product application that retrieves and displays product information through an
 
 **Screenshots:**
 
-| Product List | Product Details |
-|:---:|:---:|
-| ![Product List](screenshots/week-08/product-list.png) | ![Product Details](screenshots/week-08/product-details.png) |
-
-![Search List](screenshots/week-08/search-list.png)
+| Product List | Product Details | Search List | 
+|:---:|:---:|:---:|
+| ![Product List](screenshots/week-08/product-list.png) | ![Product Details](screenshots/week-08/product-details.png) | ![Search List](screenshots/week-08/search-list.png)
 
 ### Week 09 – GPS and Camera Application
 
